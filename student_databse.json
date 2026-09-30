@@ -1,0 +1,28 @@
+{
+  "26BCE10001": {
+    "name": "ABHIJITH PRABHAKARAN",
+    "subjects": {
+      "Technical Communication": {
+        "attendance": 98.0,
+        "cat1": 49,
+        "cat2": 49,
+        "fat": 96,
+        "internal": 10,
+        "assignment": 10,
+        "discussion": 10,
+        "quizzes": 10,
+        "final_score": 98.2,
+        "grade": "S",
+        "grade_point": 10,
+        "remark": "Excellent"
+      },
+      "Mathematics": {
+        "attendance": 98.0,
+        "cat1": 49,
+        "cat2": 49,
+        "fat": 96,
+        "internal": 10,
+        "assignment": 10,
+        "discussion": 10,
+        "quizzes": 10,
+        "final_score": 98.2,
