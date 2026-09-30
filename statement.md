@@ -16,7 +16,7 @@ The objective of this project is to provide a fast, dependency-free CLI tool for
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Zero External Dependencies**: Operates entirely with Python standard libraries (`json`, `os`).
 - **ANSI Terminal Color Coding**:
